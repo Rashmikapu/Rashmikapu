@@ -14,9 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<p align="center">
+<!-- <p align="center">
 <img src="YOUR IMAGE" width="400" height="600"
-</p>
+</p> -->
 
 <img alt="Night Coding" src="https://user-images.githubusercontent.com/40200916/183264451-47b5c893-c26f-4862-a4d2-98918acabd6c.gif" width='40' align="left"/><h2>Hello there! I'm Rashmi Kapu!</h2>
 
