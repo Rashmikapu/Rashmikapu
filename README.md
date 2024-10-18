@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 🎓 &nbsp;I am pursuing Masters in Robotics at the University of Maryland, graduating in December 2024.\
 🤖 &nbsp;I'm on track for learning more about state of the art Computer Vision, Deep Learning and NLP & multimodal LLMs for Autonomous Systems, Robotics, and Consumer Applications. My interests also include Path Planning, and Software Development for robotics.\
 📄 &nbsp; I work as a research assistant at Perception and Robotics Group [PRG](https://prg.cs.umd.edu/). Read my publication [ChatSim: Underwater simulation with Natural Language Prompting](https://ieeexplore.ieee.org/document/10337406) if you have time!. Currently, I am working on Mid Vision Feedback and Evo Prompting.\
-👩‍🎨 &nbsp;I am a professional singer, competed and secured prizes in national level singing competitions. Performed live shows with Padma Vibhushan S.P.Balasubrahmanyam garu and many other well known musicians. I teach carnatic classical vocal during my free time and play badminton.\
+👩‍🎨 &nbsp;I am a professional singer, competed and secured prizes in national level singing competitions in India. I teach Carnatic classical music.\
 💬 &nbsp;Feel free to reach out to me for any suggestions, help, or for some interesting collaboration!\
 ✉️ &nbsp;You can shoot me an email at rashmik@umd.edu. I will try to respond as soon as I can.\
 :information_source: &nbsp;I'm open to feedback and suggestions!
