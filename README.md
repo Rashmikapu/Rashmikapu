@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 ✉️ &nbsp;You can shoot me an email at rashmik@umd.edu. I will try to respond as soon as I can.\
 :information_source: &nbsp;I'm open to feedback and suggestions!
 
-Check out my website : https://rashmikapu.github.io/my_website/
+### Check out my website : https://rashmikapu.github.io/my_website/
 <img alt="Robot Design" src="https://user-images.githubusercontent.com/40200916/183264737-d8d2f9e0-b501-4142-b10f-08131e2439c2.gif" align="right" width="330" height="300"/>
 
 ### 🛠 &nbsp;Tech Stack
